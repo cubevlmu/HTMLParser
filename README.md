@@ -60,7 +60,7 @@
 ## About The Project
 
 HTMLParser is a high-performance C++ library designed to parse and manipulate HTML content. It is lightweight, fast, and flexible for developers working with HTML in C++ environments. The library can be used for web scraping, document conversion, and more.  
-Modified from [HTTPParser](https://github.com/rangerlee/htmlparser) for providing optimizing performance and bugfix.  
+Modified from [HTMLParser](https://github.com/rangerlee/htmlparser) for providing optimizing performance and bugfix.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,7 +170,7 @@ We welcome contributions from the open-source community. Here's how you can help
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-Original code is under Apache2.0 License. See `docs\HTTPParser-LICENSE.txt` for more information.
+Original code is under Apache2.0 License. See `docs\HTMLParser-LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +182,7 @@ Original code is under Apache2.0 License. See `docs\HTTPParser-LICENSE.txt` for 
 
 ## Acknowledgments
 
-* [HTTPParser]() original version of this parser modified from.  
+* [HTMLParser](https://github.com/rangerlee/htmlparser) original version of this parser modified from.  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
